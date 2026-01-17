@@ -71,6 +71,6 @@ This dashboard enables management to:
 - GitHub – Project documentation & portfolio hosting
   
 # Dashboard Preview
-[Spend Scope Insights](Screenshot 2026-01-17 142820.png)
+https://github.com/Adebayo-33/Spend-Scope-Insights/commit/ef6ae2bd621c3f60c9e3353dbbba3923919f06f5#diff-7c68aabadd467fa359061d3f25a7336ab062ae10a47186a206cc7e1137f2b128
 
 
